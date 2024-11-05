@@ -3,3 +3,5 @@
 *.jpg
 *.gif
 !.gitignore
+Events/*
+!Events/panel/*
