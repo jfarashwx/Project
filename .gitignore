@@ -1,7 +1,13 @@
-.*
+Events/SOC_93/*
+Events/ClevelandSB_78
+Events/Dec1617_20
+Events/Irene_11
+Events/Workspace_hurricane
+!Events/panel/
+!Events/panel/*
+Events/panel/.ipynb_checkpoints/
 *.png
 *.jpg
 *.gif
+.*
 !.gitignore
-Events/*
-!Events/panel/*
